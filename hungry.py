@@ -1,6 +1,6 @@
-print("Got my food")
-hungry='new food'
+hungry=input("Are you hungry? ")
+
 if hungry=="yes":
-    print("what food you want?")
+    print("Eat More")
 else:
-    print("I'm good")
+    print("Continue your work")
